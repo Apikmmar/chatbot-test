@@ -1,0 +1,9 @@
+# Core web framework
+Flask==2.3.3
+
+# AWS SDK for Python (used to access Bedrock)
+boto3==1.34.91
+botocore==1.34.91
+
+# Optional: Load environment variables from .env file (e.g., AWS credentials or config)
+python-dotenv==1.0.1

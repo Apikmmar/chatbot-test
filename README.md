@@ -4,8 +4,6 @@
 A simple chatbot powered by **Claude 3.5 Sonnet** via **Amazon Bedrock**, built using **Python Flask**.  
 This chatbot is designed to only respond to questions related to **Amazon Web Services (AWS)** — making it a focused assistant for AWS learners and developers!
 
-![screenshot](screenshot.png)
-
 ---
 
 ## 🚀 Features
@@ -50,7 +48,7 @@ chatbot-aws/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/chatbot-aws.git
+git clone https://github.com/Apikmmar/chatbot-aws.git
 cd chatbot-aws
 ```
 
